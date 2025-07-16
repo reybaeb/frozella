@@ -94,3 +94,20 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📄 License
 This project is open-sourced under the MIT license.
+
+## 📸 Screenshot Aplikasi
+
+### 1. Tampilan Halaman Login
+![Login](public/images/screenshots/login.jpeg)
+
+### 2. Tampilan Halaman Register
+![Register](public/images/screenshots/register.jpeg)
+
+### 3. Dashboard / Beranda Setelah Login
+![Dashboard](public/images/screenshots/home.jpeg)
+
+### 4. Tampilan Data CRUD Produk (Tabel)
+![CRUD List](public/images/screenshots/;update.jpeg)
+
+### 5. Form Tambah/Edit Produk
+![CRUD Form](public/images/screenshots/create.jpeg)
