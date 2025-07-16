@@ -107,7 +107,7 @@ This project is open-sourced under the MIT license.
 ![Dashboard](public/images/screenshots/home.jpeg)
 
 ### 4. Tampilan Data CRUD Produk (Tabel)
-![CRUD List](public/images/screenshots/;update.jpeg)
+![CRUD List](public/images/screenshots/update.jpeg)
 
 ### 5. Form Tambah/Edit Produk
 ![CRUD Form](public/images/screenshots/create.jpeg)
